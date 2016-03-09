@@ -1,0 +1,2 @@
+#!/bin/bash
+shairport -a "Raspberry Pi" &
